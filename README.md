@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos G</h1>
-<h3 align="center">A systems Engineering Student with a strong interest in Data Engineering, specializing in database management and ETL pipeline development</h3>
-
-- 🔭 I’m currently working on [SpotifyAPI](https://github.com/CarloosG/SpotifyAPI)
+<h3 align="center">A systems Engineer with a strong interest in Data Engineering, specializing in database management and ETL pipeline development</h3>
 
 - 🌱 I’m currently learning **Databricks,Spark,Hadoop**
 
